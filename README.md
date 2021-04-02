@@ -5,7 +5,7 @@
 - 🔭 I just launched my first bigger project: [Designo | Front End Mentor][designo]
 - 🌱 I’m currently learning React and TypeScript
 - 👯 I’m looking to find student intership
-- 🥅 2020 Goals: Make my first React-Native App
+- 🥅 2021 Goals: Make my first React-Native App
 - ⚡ Fun fact: I love to watch great cinema classics and listen to electronic music
 
 ### Connect with me:
