@@ -37,8 +37,7 @@
 - [Designo | Front End Mentor](https://mocnyjakub.github.io)
 - [JavaScript-Drum-Kit](https://mocnyjakub.github.io/JavaScript-Drum-Kit)
 <!-- BLOG-POST-LIST:END -->
-
-
+### 📕 Currently working on
 ---
 
 [website]: https://codeSTACKr.com
