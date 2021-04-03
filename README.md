@@ -36,6 +36,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Designo | Front End Mentor](https://mocnyjakub.github.io)
 - [JavaScript-Drum-Kit](https://mocnyjakub.github.io/JavaScript-Drum-Kit)
+- [First-React-Component](https://mocnyjakub.github.io/First-React-Component/)
 <!-- BLOG-POST-LIST:END -->
 ### 📕 Currently working on
 - [Photosnap Multipage](https://mocnyjakub.github.io/Photosnap-Mulipage/)
