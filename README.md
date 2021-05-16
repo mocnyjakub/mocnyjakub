@@ -34,12 +34,15 @@
 ### 📕 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
+- [Random Chuck Norris Joke](https://random-chuck-norris-joke.web.app/)
+- [Mooviez](https://mooviez-e2731.web.app/)
+- [Cook Book](https://cookz-cookbook.web.app/)
 - [Designo | Front End Mentor](https://mocnyjakub.github.io)
 - [JavaScript-Drum-Kit](https://mocnyjakub.github.io/JavaScript-Drum-Kit)
 - [First-React-Component](https://mocnyjakub.github.io/First-React-Component/)
 <!-- BLOG-POST-LIST:END -->
 ### 📕 Currently working on
-- [Photosnap Multipage](https://mocnyjakub.github.io/Photosnap-Mulipage/)
+- [Random Chuck Norris Joke React App](https://random-chuck-norris-joke.web.app/)
 ---
 
 [website]: https://codeSTACKr.com
