@@ -2,7 +2,7 @@
 
 ## I'm an aspiring Front-End Developer and also a I year student 
 
-- 🔭 I just launched my first bigger project: [Designo | Front End Mentor][designo]
+- 🔭 I just launched my first bigger project in React (with API): [Random Chuck Norris Joke](https://random-chuck-norris-joke.web.app/)
 - 🌱 I’m currently learning React and TypeScript
 - 👯 I’m looking to find student intership
 - 🥅 2021 Goals: Make my first React-Native App
