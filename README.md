@@ -1,11 +1,10 @@
 ### Hi there, I'm Kuba 👋
 
-## I'm an aspiring Front-End Developer and also a I year student 
+## React enthusiast with 2 years of experience in web development. I specialize in designing, developing, implementing and maintaining business web applications.
+In addition to technical skills, I have experience working in both software houses and startups. I am a student of computer science, with a specialization in web and mobile application development. I am open to working on different projects while learning new technologies. ##
 
-- 🔭 I just launched my first bigger project in React (with API): [Random Chuck Norris Joke](https://random-chuck-norris-joke.web.app/)
-- 🌱 I’m currently learning React and TypeScript
-- 👯 I’m looking to find student intership
-- 🥅 2021 Goals: Make my first React-Native App
+- 🌱 I’m currently learning React-Query and Next.js
+- 🥅 2023 Goals: Make my first Full-Stack App
 - ⚡ Fun fact: I love to watch great cinema classics and listen to electronic music
 
 ### Connect with me:
@@ -30,22 +29,3 @@
 <br />
 <br />
 
-
-### 📕 Latest Projects
-
-<!-- BLOG-POST-LIST:START -->
-- [Random Chuck Norris Joke](https://random-chuck-norris-joke.web.app/)
-- [Mooviez](https://mooviez-e2731.web.app/)
-- [Cook Book](https://cookz-cookbook.web.app/)
-- [Designo | Front End Mentor](https://mocnyjakub.github.io)
-- [JavaScript-Drum-Kit](https://mocnyjakub.github.io/JavaScript-Drum-Kit)
-- [First-React-Component](https://mocnyjakub.github.io/First-React-Component/)
-<!-- BLOG-POST-LIST:END -->
-### 📕 Currently working on
-- [Random Chuck Norris Joke React App](https://random-chuck-norris-joke.web.app/)
----
-
-[website]: https://codeSTACKr.com
-[designo]: https://mocnyjakub.github.io
-[twitter]: https://twitter.com/jakub_mocny
-[linkedin]: https://www.linkedin.com/in/jakub-mocny
