@@ -1,6 +1,6 @@
 ### Hi there, I'm Kuba 👋
 
-## React enthusiast with 2 years of experience in web development. I specialize in designing, developing, implementing and maintaining business web applications.
+## React enthusiast with over 2 years of experience in web development. I specialize in designing, developing, implementing and maintaining business web applications.
 In addition to technical skills, I have experience working in both software houses and startups. I am a student of computer science, with a specialization in web and mobile application development. I am open to working on different projects while learning new technologies.
 
 - 🌱 I’m currently learning React-Query and Next.js
